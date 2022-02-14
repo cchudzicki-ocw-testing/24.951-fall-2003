@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-951-introduction-to-syntax-fall-2003/ad83f332125a8005e661502ec3c7502c_ho_bjr_89.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ho_bjr_89.pdf
+type: OCWFile
 uid: ad83f332-125a-8005-e661-502ec3c7502c
 ---
