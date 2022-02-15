@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw_lfg.pdf
-type: OCWFile
 uid: f83d24ac-885a-a34f-aeaf-570892bc92c9
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln9process_unacc.pdf
-type: OCWFile
 uid: bd3e59e1-f3e7-5094-b002-a5b69658e604
 ---

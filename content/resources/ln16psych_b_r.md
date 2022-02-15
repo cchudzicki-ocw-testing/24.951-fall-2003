@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln16psych_b_r.pdf
-type: OCWFile
 uid: 7c29247c-c265-cb34-1d26-be26f0cb3a35
 ---

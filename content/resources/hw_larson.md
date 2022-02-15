@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw_larson.pdf
-type: OCWFile
 uid: d923cfc8-42ce-9f31-3957-30955c43a650
 ---

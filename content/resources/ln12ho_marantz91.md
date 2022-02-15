@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln12ho_marantz91.pdf
-type: OCWFile
 uid: 9b7ae9f1-54d0-3995-890a-640175de9a4f
 ---

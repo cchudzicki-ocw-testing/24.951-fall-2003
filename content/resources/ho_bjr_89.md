@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ho_bjr_89.pdf
-type: OCWFile
 uid: ad83f332-125a-8005-e661-502ec3c7502c
 ---

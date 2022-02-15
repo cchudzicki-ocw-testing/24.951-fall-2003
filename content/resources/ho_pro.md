@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ho_pro.pdf
-type: OCWFile
 uid: 00fb7033-77d4-afa0-f842-67ad7c8cd867
 ---

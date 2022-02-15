@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps3pass_unaccu.pdf
-type: OCWFile
 uid: c80f7fe5-8282-e69c-75f1-20a1364d73a4
 ---

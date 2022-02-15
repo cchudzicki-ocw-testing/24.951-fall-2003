@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ho_nonconf.pdf
-type: OCWFile
 uid: 88dcc2c0-9c9a-ca9e-5b0a-cf148bd8dc95
 ---

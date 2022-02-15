@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln1psych_intro.pdf
-type: OCWFile
 uid: a99f0029-2796-c06d-ecc3-571e0649d20d
 ---

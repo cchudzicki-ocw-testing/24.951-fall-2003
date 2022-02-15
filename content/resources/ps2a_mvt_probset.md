@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps2a_mvt_probset.pdf
-type: OCWFile
 uid: 73aef449-6a3c-bb3b-d25f-51a88e92014a
 ---

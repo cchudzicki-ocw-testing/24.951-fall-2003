@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln13case_stackin.pdf
-type: OCWFile
 uid: b5bbccde-3857-b097-5831-7345944939ac
 ---

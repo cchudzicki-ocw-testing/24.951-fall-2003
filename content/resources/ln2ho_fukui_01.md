@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln2ho_fukui_01.pdf
-type: OCWFile
 uid: 84e1847e-d381-5beb-d594-3bcdd499aaee
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln15cont_vs_rais.pdf
-type: OCWFile
 uid: 51c1e511-cc57-0c36-1774-8d8e71758a5c
 ---

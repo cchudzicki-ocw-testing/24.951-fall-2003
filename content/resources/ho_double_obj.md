@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ho_double_obj.pdf
-type: OCWFile
 uid: b39a3ca7-07e0-b030-7e08-a8dc839c4c88
 ---

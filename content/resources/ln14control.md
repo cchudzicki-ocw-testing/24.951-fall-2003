@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln14control.pdf
-type: OCWFile
 uid: d7531500-73e9-a86f-1d21-21abefada067
 ---

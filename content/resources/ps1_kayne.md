@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps1_kayne.pdf
-type: OCWFile
 uid: 095bfca1-2440-47a7-fdf2-99f7532bedba
 ---

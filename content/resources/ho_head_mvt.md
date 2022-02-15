@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ho_head_mvt.pdf
-type: OCWFile
 uid: ee67913c-61d5-52bf-1a69-276883b11e0c
 ---

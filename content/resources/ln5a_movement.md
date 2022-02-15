@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln5a_movement.pdf
-type: OCWFile
 uid: 1e3a1d08-73ad-7a05-f324-51088daa9c6e
 ---

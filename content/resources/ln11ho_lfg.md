@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln11ho_lfg.pdf
-type: OCWFile
 uid: ac1414fd-44bf-fa8c-24cf-2d945c2ef135
 ---

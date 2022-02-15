@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln7unaccusativit.pdf
-type: OCWFile
 uid: 494d60e6-5820-7ffd-8f14-8f1758df8c63
 ---

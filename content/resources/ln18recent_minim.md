@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln18recent_minim.pdf
-type: OCWFile
 uid: 56c43d39-a681-10f7-0734-1989a33dc7c7
 ---

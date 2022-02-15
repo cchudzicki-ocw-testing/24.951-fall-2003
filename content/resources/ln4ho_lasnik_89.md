@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln4ho_lasnik_89.pdf
-type: OCWFile
 uid: 999863a2-5872-92d9-7091-da2e7c3f6d29
 ---

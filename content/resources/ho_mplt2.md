@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ho_mplt2.pdf
-type: OCWFile
 uid: 29c3645e-bf74-f5f2-2df9-aaa576c40908
 ---

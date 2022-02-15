@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ln3ho_kayne_94.pdf
-type: OCWFile
 uid: c45e9862-4fa9-5da7-f498-3542115f7643
 ---
