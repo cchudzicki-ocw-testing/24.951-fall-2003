@@ -221,6 +221,6 @@ Chomsky, Noam. "Minimalist Inquiries: The Framework." In _Step by Step_. Edited 
 
 ———. "Derivation by Phase" (Excerpts). In _Ken Hale: A Life in Language_. pp.1-52.
 
-Frampton, John et al. "Remarks on 'Derivation by Phase': Feature Valuation, Agreement, and Intervention." (M.S., 8 pages) 2000.
+Frampton, John et al. "Remarks on 'Derivation by Phase': Feature Valuation, Agreement, and Intervention." (MS., 8 pages) 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
