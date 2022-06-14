@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-951-introduction-to-syntax-fall-2003/494d60e658207ffd8f148f1758df8c63_ln7unaccusativit.pdf
+file: /courses/24-951-introduction-to-syntax-fall-2003/494d60e658207ffd8f148f1758df8c63_ln7unaccusativit.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
